@@ -2,7 +2,7 @@
 // Difficulty: Medium
 // Topic: Array | Two Pointers
 // Approach: Floyd's Cycle Detection Algorithm
-
+//slow and fast pointers to find a meeting point.
 #include <iostream>
 #include <vector>
 using namespace std;
